@@ -50,4 +50,4 @@ It provides a simple way to add and track customer orders, and also generate bas
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/smart-ahwa-manager-app.git 
+   git clone https://github.com/hebakhalif/Smart-Ahwa-Manager-App.git
