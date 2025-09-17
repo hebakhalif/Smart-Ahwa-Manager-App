@@ -24,20 +24,14 @@ It provides a simple way to add and track customer orders, and also generate bas
 ---
 
 ## 🖼 Screenshots
-###  Splash
-<img src="assets/screenshots/splash.jpg" width="250">
 
-###  Add Order
-<img src="assets/screenshots/AddOrder.jpg" width="250">
-
-###  Dashboard
-<img src="assets/screenshots/Dashboard2.jpg" width="250">
-
-###  Dashboard
-<img src="assets/screenshots/dashboard1.jpg" width="250">
-
-### 📈 Reports
-<img src="assets/screenshots/Reports.jpg" width="250">
+<div style="display: flex; gap: 10px;">
+  <img src="assets/screenshots/splash.jpg" width="250">
+  <img src="assets/screenshots/AddOrder.jpg" width="250">
+  <img src="assets/screenshots/Dashboard2.jpg" width="250">
+  <img src="assets/screenshots/dashboard1.jpg" width="250">
+  <img src="assets/screenshots/Reports.jpg" width="250">
+</div>
 
 ---
 
