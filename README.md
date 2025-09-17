@@ -1,16 +1,53 @@
-# smart_ahwa_manager_app
+# Smart Ahwa Manager App
 
-A new Flutter project.
+## 📌 Description
+*Smart Ahwa Manager App* is a Flutter application designed to help manage orders in a coffee shop (Ahwa).  
+It provides a simple way to add and track customer orders, and also generate basic reports and analytics.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ⚙ Features
+- 📝 *Add Order*  
+  Add new customer orders with:
+  - Customer name
+  - Drink type (Tea, Turkish Coffee, Hibiscus, …)
+  - Special instructions  
 
-A few resources to get you started if this is your first Flutter project:
+- 📊 *Dashboard*  
+  View and manage *pending orders, and mark orders as **completed*.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📈 *Reports & Analytics*  
+  Generate simple reports such as:
+  - Total number of orders
+  - Most popular drink  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🖼 Screenshots
+### 📝 Splash
+<img src="assets/screenshots/splash.jpg" width="250">
+
+### 📝 Add Order
+<img src="assets/screenshots/AddOrder.jpg" width="250">
+
+### 📝 Dashboard
+<img src="assets/screenshots/Dashboard2.jpg" width="250">
+
+### 📊 Dashboard
+<img src="assets/screenshots/dashboard1.jpg" width="250">
+
+### 📈 Reports
+<img src="assets/screenshots/Reports.jpg" width="250">
+
+---
+
+## 🛠 Tech Stack
+- Flutter  
+- Dart  
+
+---
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/smart-ahwa-manager-app.git 
